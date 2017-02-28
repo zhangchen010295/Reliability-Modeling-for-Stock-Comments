@@ -13,5 +13,5 @@ It is organized as follows:
 
 <li><strong>Data-Stock Price</strong>: This folder contains the real world data of stock prices used in the experiments.</li>
 
-<li><strong>Raw Comments.rar</strong>: These rar packages contain the real world data of stock comments used in the experiments.</li>
+<li><strong>Raw Comments.rar</strong>: These .rar packages contain the real world data of stock comments used in the experiments.</li>
 </ul>
