@@ -6,7 +6,7 @@ Chen Zhang, Hao Wang∗,Yang Gao, Wei Wang and Jingyuan Yang, Hui Xiong∗. 2017
 
 It is organized as follows:
 
-Code: This folder contains the Python algorithm implementations of the approaches defined in the paper.
+<strong>Code</strong>: This folder contains the Python algorithm implementations of the approaches defined in the paper.
 
 Data-Sector: This folder contains the real world data of stock sectors used in the experiments.
 
