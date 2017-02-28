@@ -6,5 +6,7 @@ Chen Zhang, Hao Wang∗,Yang Gao, Wei Wang and Jingyuan Yang, Hui Xiong∗. 2017
 
 It is organized as follows:
 
-data: This folder contains the real world data used in the experiments.
-code: This folder contains the Python algorithm implementations of the approaches defined in the paper.
+Code: This folder contains the Python algorithm implementations of the approaches defined in the paper.
+Data-Sector: This folder contains the real world data of stock sectors used in the experiments.
+Data-Stock Price: This folder contains the real world data of stock prices used in the experiments.
+Raw Comments.rar: These rar packages contain the real world data of stock comments used in the experiments.
