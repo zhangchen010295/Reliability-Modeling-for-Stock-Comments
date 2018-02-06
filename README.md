@@ -2,7 +2,7 @@
 
 This repository provides the materials for the paper:
 
-Chen Zhang, Hao Wang∗,Yang Gao, Wei Wang and Jingyuan Yang, Hui Xiong∗. 2017. Reliability Modeling for Stock Comments: A Holistic Perspective
+Reliability Modeling for Stock Comments: A Holistic Perspective
 
 It is organized as follows:
 
